@@ -4,7 +4,6 @@ import ReviewCard from "../ReviewCard/ReviewCard";
 
 const Reviews = () => {
   const [reviews, setReviews] = useReviews();
-  console.log(reviews);
   return (
     <div>
       <h1 className="text-center text-green-500 text-4xl mt-10">
