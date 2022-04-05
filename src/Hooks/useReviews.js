@@ -4,7 +4,7 @@ const useReviews = () => {
   const [reviews, setReviews] = useState([]);
 
   useEffect(() => {
-    fetch("https://json.extendsclass.com/bin/1d351e8b7d23")
+    fetch("https://json.extendsclass.com/bin/ad01d81290fa")
       .then((res) => res.json())
       .then((data) => setReviews(data));
   }, []);
