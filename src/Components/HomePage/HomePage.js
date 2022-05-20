@@ -23,7 +23,7 @@ const HomePage = () => {
             including multiple payment options, EMI Facility, best price, cash
             on delivery, delivery in 64 districts, free home delivery inside
             Dhaka and Chattogram city, 24/7 online support, and extensive
-            customer service and warranty commitments.
+            customer service and warranty Commitments.
           </p>
           <Link to={"/blogs"}>
             <button
